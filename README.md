@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
+  <h2> Olá, me chamo Diva! 👋</h2>
+  <p>Estudante de Tecnologia na UFSC | Apaixonada por Java e Inovação</p>
+</div>
 
-<!--
-**d-ivva/d-ivva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🏆 Minhas Conquistas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/aaa4dedc-e03c-47f5-a76b-cfc92bca0a81" width="110" alt="Badge Challenge ONE | Amigo Secreto">
+   <img src="https://github.com/user-attachments/assets/74125c65-6d3b-4089-a5b7-28b2a81a4537" width="110" alt="Badge Challenge ONE | Conversor de Moedas">
+  
+  </div>
