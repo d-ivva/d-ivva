@@ -2,7 +2,7 @@
 
 💻 **`Desenvolvedora em formação`**
 
-Me chamo Diva, tenho 25 anos e sou natural de São Paulo. Concluí o ensino médio no IFSC, no curso técnico de Vestuário e posteriormente descobri meu entusiamo por tecnologia. Atualmente estou cursando Tecnologias da Informação e Comunicação na Universidade Federal de Santa Catarina. Inicialmente, busco me especializar em Java para acrescentar na jornada em busca de me tornar uma desenvolvedora Full Stack.
+Me chamo Diva, tenho 25 anos e sou natural de São Paulo. Concluí o ensino médio no IFSC, no curso técnico de Vestuário e posteriormente descobri meu entusiamo por tecnologia. Atualmente estou cursando Tecnologias da Informação e Comunicação na Universidade Federal de Santa Catarina. Inicialmente, busco me especializar em Java para evoluir sequencialmente na jornada de me tornar uma desenvolvedora Full Stack.
 
 <p align="left">
     <a href="https://github.com/d-ivva?tab=repositories&sort=stargazers">
