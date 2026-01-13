@@ -1,11 +1,11 @@
 <div align="center">
-  <h2> Olá, me chamo Diva! 👋</h2>
-  <p>Estudante de Tecnologia na UFSC | Apaixonada por Java e Inovação</p>
+  <h2>Diva M.S. Hennemann</h2>
+  <p>Me chamo Diva, tenho 25 anos e sou natural de São Paulo. Concluí o ensino médio no IFSC, no curso técnico de Vestuário e posteriormente descobri meu entusiamo por tecnologia. Atualmente estou cursando Tecnologias da Informação e Comunicação na Universidade Federal de Santa Catarina. Inicialmente, busco me especializar em Java para acrescentar na jornada em busca de me tornar uma desenvolvedora Full Stack. </p>
 </div>
 
 ---
 
-### 🏆 Minhas Conquistas
+### 🏆 Badges
 
 <div align="center">
   <a href="https://cursos.alura.com.br/certificate/divamsh/logica-programacao-challenge-amigo-secreto">
