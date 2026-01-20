@@ -94,3 +94,12 @@ Me chamo Diva, tenho 25 anos e sou natural de São Paulo. Concluí o ensino méd
    <img src="https://github.com/user-attachments/assets/74125c65-6d3b-4089-a5b7-28b2a81a4537" width="110" alt="Badge Challenge ONE | Conversor de Moedas">
   </a>
 </div>
+
+### 🎯 Principais projetos
+
+FlipUFSC - Jogo sério que transforma preparação para o vestibular em uma experiência dinâmica pensada para impulsionar o ingresso na UFSC. Uma iniciativa do GATI Lab.
+<div align="center">
+  <a href="https://flipufsc.gatilab.com.br/sobre">
+    <img src="https://github.com/user-attachments/assets/c28ae5e8-9296-41eb-a15d-e9e6cd228727" width="110" alt="Flipinho | Mascote FlipUFSC">
+  </a>
+</div>
