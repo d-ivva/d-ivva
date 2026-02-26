@@ -88,6 +88,10 @@ Me chamo Diva, tenho 25 anos e sou natural de São Paulo. Concluí o ensino méd
   <a href="https://cursos.alura.com.br/certificate/divamsh/spring-framework-challenge-forum-hub">
      <img src="https://github.com/user-attachments/assets/f81f43b4-e6b6-457e-a095-a1e7453abbea" width="110" alt="Badge Challenge ONE | Fórum Hub">
   </a>
+    </a>
+  <a href="https://cursos.alura.com.br/certificate/divamsh/spring-boot-challenge-literalura">
+     <img src="https://github.com/user-attachments/assets/6c4ea7c7-324c-4d0f-b863-7800cf057cfd" width="110" alt="Badge Challenge ONE | LiterAlura">
+  </a>
 </div>
 
 ### 🎯 Principais projetos
