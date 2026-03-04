@@ -80,13 +80,13 @@ Me chamo Diva, tenho 25 anos e sou natural de São Paulo. Concluí o ensino méd
 ### 🏆 Badges
 <div align="center">
   <a href="https://cursos.alura.com.br/certificate/divamsh/logica-programacao-challenge-amigo-secreto">
-    <img src="https://github.com/user-attachments/assets/aaa4dedc-e03c-47f5-a76b-cfc92bca0a81" width="110" alt="Badge Challenge ONE | Amigo Secreto">
+    <img src="https://github.com/user-attachments/assets/597dd32b-0f0a-4b88-96db-508a6c63ad98" width="110" alt="Badge Challenge ONE | Amigo Secreto">
   </a>
   <a href="https://cursos.alura.com.br/certificate/divamsh/praticando-java-construindo-conversor-moedas">
-   <img src="https://github.com/user-attachments/assets/74125c65-6d3b-4089-a5b7-28b2a81a4537" width="110" alt="Badge Challenge ONE | Conversor de Moedas">
+   <img src="https://github.com/user-attachments/assets/dac6ae98-08af-47ca-b27c-801792c6da8a" width="110" alt="Badge Challenge ONE | Conversor de Moedas">
   </a>
   <a href="https://cursos.alura.com.br/certificate/divamsh/spring-framework-challenge-forum-hub">
-     <img src="https://github.com/user-attachments/assets/f81f43b4-e6b6-457e-a095-a1e7453abbea" width="110" alt="Badge Challenge ONE | Fórum Hub">
+     <img src="https://github.com/user-attachments/assets/290ed865-43dc-4754-8a13-dc1b1938446b" width="110" alt="Badge Challenge ONE | Fórum Hub">
   </a>
     </a>
   <a href="https://cursos.alura.com.br/certificate/divamsh/spring-boot-challenge-literalura">
