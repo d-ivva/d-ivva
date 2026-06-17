@@ -77,28 +77,13 @@ Me chamo Diva, tenho 25 anos e sou natural de São Paulo. Concluí o ensino méd
 <br/>
 
 
-### 🏆 Badges
-<div align="center">
-  <a href="https://cursos.alura.com.br/certificate/divamsh/logica-programacao-challenge-amigo-secreto">
-    <img src="https://github.com/user-attachments/assets/597dd32b-0f0a-4b88-96db-508a6c63ad98" width="110" alt="Badge Challenge ONE | Amigo Secreto">
-  </a>
-  <a href="https://cursos.alura.com.br/certificate/divamsh/praticando-java-construindo-conversor-moedas">
-   <img src="https://github.com/user-attachments/assets/dac6ae98-08af-47ca-b27c-801792c6da8a" width="110" alt="Badge Challenge ONE | Conversor de Moedas">
-  </a>
-  <a href="https://cursos.alura.com.br/certificate/divamsh/spring-framework-challenge-forum-hub">
-     <img src="https://github.com/user-attachments/assets/290ed865-43dc-4754-8a13-dc1b1938446b" width="110" alt="Badge Challenge ONE | Fórum Hub">
-  </a>
-    </a>
-  <a href="https://cursos.alura.com.br/certificate/divamsh/spring-boot-challenge-literalura">
-     <img src="https://github.com/user-attachments/assets/6c4ea7c7-324c-4d0f-b863-7800cf057cfd" width="110" alt="Badge Challenge ONE | LiterAlura">
-  </a>
-</div>
 
-### 🎯 Principais projetos
 
-FlipUFSC - Jogo sério que transforma preparação para o vestibular em uma experiência dinâmica pensada para impulsionar o ingresso na UFSC. Uma iniciativa do GATI Lab.
+### 🎯 Principais iniciativas
+
+Iniciativa do GATI Lab - FlipUFSC: Jogo sério que transforma os estudos para o vestibular em uma experiência dinâmica para impulsionar o ingresso na UFSC.
 <div align="center">
-  <a href="https://flipufsc.gatilab.com.br/sobre">
+  <a href="https://gatilab.com.br/">
     <img src="https://github.com/user-attachments/assets/c28ae5e8-9296-41eb-a15d-e9e6cd228727" width="110" alt="Flipinho | Mascote FlipUFSC">
   </a>
 </div>
