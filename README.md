@@ -76,6 +76,13 @@ Me chamo Diva, tenho 25 anos e sou natural de São Paulo. Concluí o ensino méd
 <br/>
 <br/>
 
+### 🎀 Badges
+
+<div align="center">
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=8955B6289116EFA542D4AC59C851C34E4168C8B331D47BA1940DD803E813986E">
+    <img src="https://objectstorage.us-phoenix-1.oraclecloud.com/p/c3pofC7CHkSqKCRIe7q91rfgM9hXgQQW-GN-CtR9tbzkW4HIN0H02OJ8xwoeHPO_/n/axdnydvy8b2d/b/BCKMLPHXDEV_IMAGES/o/img/PROD/Learning-Path_badge_default.png" width="110" alt="Oracle Badge">
+  </a>
+</div>
 
 
 
